@@ -4,6 +4,6 @@
     "2.0"
   ],
   "resources": {
-    "en_core.json": "English Core"
+    "en_core": "English Core"
   }
 }
