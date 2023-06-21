@@ -19,6 +19,11 @@
         "extract": true
       },
       {
+        "url": "https://github.com/gengoai/models/releases/download/en/lexicons-2.0.tar.gz",
+        "resource": "lexicons",
+        "extract": true
+      },
+      {
         "url": "http://www.maltparser.org/mco/english_parser/engmalt.linear-1.7.mco",
         "resource": "models",
         "targetName": "dependency.model.bin"
