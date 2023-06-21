@@ -1,6 +1,9 @@
-[
-  {
-    "name": "en_core.json",
-    "description": "English Core"
+{
+  "latest": "2.0",
+  "versions": [
+    "2.0"
+  ],
+  "resources": {
+    "en_core.json": "English Core"
   }
-]
+}
