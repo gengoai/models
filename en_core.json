@@ -1,0 +1,23 @@
+{
+  "language": "en",
+  "latest": "2.0",
+  "versions": {
+    "2.0": [
+      {
+        "url": "https://github.com/gengoai/models/releases/download/en/pos-2.0.tar.gz",
+        "resource": "model",
+        "extract": true
+      },
+      {
+        "url": "https://github.com/gengoai/models/releases/download/en/phrase_chunk-2.0.tar.gz",
+        "resource": "model",
+        "extract": true
+      },
+      {
+        "url": "https://github.com/gengoai/models/releases/download/en/ner-2.0.tar.gz",
+        "resource": "model",
+        "extract": true
+      }
+    ]
+  }
+}
