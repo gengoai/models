@@ -46,7 +46,7 @@
         "extract": true
       },
       {
-        "url": "https://github.com/gengoai/models/releases/download/en/glove.840B.300d.tar.gz",
+        "url": "https://www.dropbox.com/scl/fi/sd1rpsffvig3ab0f2g9t7/glove.840B.300d.tar.gz?rlkey=xd3avuvugwi3gm1d05wxfao8a&dl=1",
         "resource": "vectors",
         "extract": true
       },
