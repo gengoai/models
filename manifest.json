@@ -1,7 +1,7 @@
 {
-  "latest": "2.0",
+  "latest": "2.1",
   "versions": [
-    "2.0"
+    "2.0", "2.1"
   ],
   "resources": {
     "en_core": "English Core",
