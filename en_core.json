@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "latest": "2.0",
+  "latest": "2.1",
   "versions": {
     "2.0": [
       {
@@ -20,6 +20,38 @@
       },
       {
         "url": "https://github.com/gengoai/models/releases/download/en/lexicons-2.0.tar.gz",
+        "resource": "lexicons",
+        "extract": true
+      },
+      {
+        "url": "http://www.maltparser.org/mco/english_parser/engmalt.linear-1.7.mco",
+        "resource": "models",
+        "targetName": "dependency.model.bin"
+      }
+    ],
+    "2.1": [
+      {
+        "url": "https://github.com/gengoai/models/releases/download/en/pos-2.0.tar.gz",
+        "resource": "models",
+        "extract": true
+      },
+      {
+        "url": "https://github.com/gengoai/models/releases/download/en/phrase_chunk-2.0.tar.gz",
+        "resource": "models",
+        "extract": true
+      },
+      {
+        "url": "https://github.com/gengoai/models/releases/download/en/ner-2.1.tar.gz",
+        "resource": "models",
+        "extract": true
+      },
+      {
+        "url": "https://github.com/gengoai/models/releases/download/en/glove.840B.300d.tar.gz",
+        "resource": "vectors",
+        "extract": true
+      },
+      {
+        "url": "https://github.com/gengoai/models/releases/download/en/lexicons-2.1.tar.gz",
         "resource": "lexicons",
         "extract": true
       },
