@@ -1,0 +1,18 @@
+{
+  "language": "ja",
+  "latest": "2.1",
+  "versions": {
+    "2.1": [
+      {
+        "url": "https://github.com/gengoai/models/releases/download/zh/ner-2.1.tar.gz",
+        "resource": "models",
+        "extract": true
+      },
+      {
+        "url": "https://github.com/gengoai/models/releases/download/zh/pos-2.1.tar.gz",
+        "resource": "models",
+        "extract": true
+      }
+    ]
+  }
+}

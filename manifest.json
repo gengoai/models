@@ -9,6 +9,7 @@
     "en_glove_6B_100d": "English Glove 6B 100d vectors",
     "en_glove_6B_200d": "English Glove 6B 200d vectors",
     "en_glove_6B_300d": "English Glove 6B 300d vectors",
-    "ja_core": "Japanese Core"
+    "ja_core": "Japanese Core",
+    "zh_core": "Chinese Core"
   }
 }
