@@ -4,7 +4,7 @@
     "versions": {
       "2.1": [
         {
-          "url": "https://github.com/gengoai/models/releases/download/en/sentence_encoder.tar.gz",
+          "url": "https://github.com/gengoai/models/releases/download/en/sentence_encoder-2.1.tar.gz",
           "resource": "models",
           "extract": true
         }
